@@ -32,7 +32,10 @@ nav a{
 }
 
 #tbbutton {
-	float:right
+	height: 60px;
+	float: right;
+	display: flex;
+	align-items: center;
 }
 
 nav {
