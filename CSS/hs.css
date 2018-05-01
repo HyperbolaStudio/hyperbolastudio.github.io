@@ -103,3 +103,45 @@ main {
 	line-height: 48px;
 	padding: 0 24px;
 }
+
+#content {
+	width:70%;
+	float:left;
+	margin: 10px
+}
+
+.neirong {
+	width:800px;
+	height: 320px;
+	box-shadow: 0 0 10px;
+}
+footer {
+	background-color: rgba(34,34,34,1);
+	height:64mm;
+	width:100%;
+	border-radius:10px 10px 0px 0px;
+	box-shadow:0px 0px 12px black;
+	float:left;
+	box-sizing:content-box;
+}
+.footer-logo{
+	padding:32px;
+	width:20%;
+	height: auto;
+}
+.footer-link {
+	color: white;
+	padding-right: 20px;
+}
+
+.innerlink {
+	padding-left: 32px;
+}
+
+.footer-link:hover {
+	text-decoration: underline
+}
+
+.sociallink {
+	padding-left: 32px;
+}
