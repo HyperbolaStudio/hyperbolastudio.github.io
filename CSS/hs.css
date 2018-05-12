@@ -68,16 +68,14 @@ main {
 	height: 360px;
 	background-color: #00a0e9
 }
-
-
-
-
-
-#lunbotu {
-	width:600px;
-	height: 400px;
+section {
+	width:100%;
+	height: 360px;
+	background-color: #00a0e9
 }
-
+section img{
+	
+}
 #lbtvideo {
 	float:left;
 	height: 360px;
